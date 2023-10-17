@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Rounders
     url: https://www.rounders.ca
+  - name: How2ReachUs
+    url: https://how2reach.us
+  - name: BC Rare Bird Records
+    url: https://bcrarebirdrecords.ca
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
