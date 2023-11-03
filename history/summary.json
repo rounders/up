@@ -168,8 +168,8 @@
     "slug": "vancouver-now-and-then",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 541,
@@ -177,8 +177,6 @@
     "timeWeek": 633,
     "timeMonth": 541,
     "timeYear": 541,
-    "dailyMinutesDown": {
-      "2023-11-02": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
