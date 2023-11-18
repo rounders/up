@@ -42,5 +42,12 @@ status-website:
     - title: GitHub
       href: https://github.com/rounders/up
 
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  repository_dispatch:
+    types: [uptime]
+  workflow_dispatch:
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
