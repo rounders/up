@@ -22,10 +22,10 @@
     "url": "https://how2reach.us",
     "icon": "https://icons.duckduckgo.com/ip3/how2reach.us.ico",
     "slug": "how2-reach-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
@@ -33,26 +33,28 @@
     "timeWeek": 168,
     "timeMonth": 202,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 1
+    }
   },
   {
     "name": "BC Rare Bird Records",
     "url": "https://bcrarebirdrecords.ca",
     "icon": "https://icons.duckduckgo.com/ip3/bcrarebirdrecords.ca.ico",
     "slug": "bc-rare-bird-records",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 442,
     "timeDay": 457,
     "timeWeek": 361,
     "timeMonth": 421,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2024-01-06": 12
+      "2024-01-06": 1
     }
   },
   {
@@ -114,19 +116,19 @@
     "url": "https://momocato.com",
     "icon": "https://icons.duckduckgo.com/ip3/momocato.com.ico",
     "slug": "momocato",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 255,
     "timeDay": 257,
     "timeWeek": 221,
     "timeMonth": 249,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2024-01-06": 11
+      "2024-01-06": 0
     }
   },
   {
