@@ -148,19 +148,19 @@
     "url": "https://blog.johnbentley.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blog.johnbentley.ca.ico",
     "slug": "john-bentley-blog",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 386,
     "timeDay": 7271,
     "timeWeek": 1335,
     "timeMonth": 528,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2024-01-29": 14
+      "2024-01-29": 0
     }
   },
   {
