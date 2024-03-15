@@ -58,10 +58,10 @@
     "url": "https://www.alelucia.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.alelucia.com.ico",
     "slug": "alelucia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
@@ -69,7 +69,9 @@
     "timeWeek": 463,
     "timeMonth": 345,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 1
+    }
   },
   {
     "name": "Roost Dashboard",
@@ -94,10 +96,10 @@
     "url": "https://like2have.it",
     "icon": "https://icons.duckduckgo.com/ip3/like2have.it.ico",
     "slug": "like2-have-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
@@ -105,7 +107,9 @@
     "timeWeek": 428,
     "timeMonth": 440,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 1
+    }
   },
   {
     "name": "momocato",
@@ -169,9 +173,9 @@
     "url": "https://vancouvernowandthen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vancouvernowandthen.com.ico",
     "slug": "vancouver-now-and-then",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -180,6 +184,8 @@
     "timeWeek": 725,
     "timeMonth": 605,
     "timeYear": 582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   }
 ]
