@@ -76,9 +76,9 @@
     "url": "https://dashboard.roostsolar.com",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.roostsolar.com.ico",
     "slug": "roost-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 230,
     "timeMonth": 296,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-30": 0
+    }
   },
   {
     "name": "Like2Have.it",
