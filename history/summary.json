@@ -97,19 +97,19 @@
     "url": "https://like2have.it",
     "icon": "https://icons.duckduckgo.com/ip3/like2have.it.ico",
     "slug": "like2-have-it",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 319,
-    "timeWeek": 341,
-    "timeMonth": 365,
+    "timeDay": 292,
+    "timeWeek": 335,
+    "timeMonth": 363,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2024-08-23": 0
+      "2024-08-23": 19
     }
   },
   {
@@ -129,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-08-23": 842,
+      "2024-08-23": 860,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
