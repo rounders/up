@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 345,
-    "timeWeek": 425,
-    "timeMonth": 233,
+    "time": 154,
+    "timeDay": 204,
+    "timeWeek": 411,
+    "timeMonth": 234,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 266,
-    "timeWeek": 272,
-    "timeMonth": 272,
-    "timeYear": 283,
+    "time": 281,
+    "timeDay": 299,
+    "timeWeek": 279,
+    "timeMonth": 273,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 532,
-    "timeDay": 511,
-    "timeWeek": 513,
-    "timeMonth": 523,
-    "timeYear": 532,
+    "timeDay": 596,
+    "timeWeek": 533,
+    "timeMonth": 526,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   },
   {
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
-    "timeDay": 353,
-    "timeWeek": 355,
-    "timeMonth": 347,
+    "timeDay": 407,
+    "timeWeek": 363,
+    "timeMonth": 349,
     "timeYear": 341,
     "dailyMinutesDown": {}
   },
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 283,
-    "timeWeek": 299,
-    "timeMonth": 323,
-    "timeYear": 292,
+    "timeDay": 348,
+    "timeWeek": 306,
+    "timeMonth": 324,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   },
   {
@@ -101,13 +101,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 382,
-    "timeWeek": 387,
-    "timeMonth": 384,
+    "timeDay": 425,
+    "timeWeek": 393,
+    "timeMonth": 387,
     "timeYear": 367,
-    "dailyMinutesDown": {
-      "2024-08-23": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NaturesPicsOnline",
@@ -121,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 312,
-    "timeWeek": 324,
-    "timeMonth": 311,
-    "timeYear": 307,
+    "timeDay": 383,
+    "timeWeek": 338,
+    "timeMonth": 313,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2025-02-08": 16
     }
@@ -141,9 +139,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 375,
-    "timeDay": 362,
-    "timeWeek": 350,
-    "timeMonth": 373,
+    "timeDay": 373,
+    "timeWeek": 348,
+    "timeMonth": 375,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2025-08-03": 18,
@@ -171,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 633,
-    "timeDay": 697,
-    "timeWeek": 667,
-    "timeMonth": 640,
-    "timeYear": 633,
+    "time": 634,
+    "timeDay": 767,
+    "timeWeek": 693,
+    "timeMonth": 643,
+    "timeYear": 635,
     "dailyMinutesDown": {}
   }
 ]
