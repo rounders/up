@@ -1,7 +1,7 @@
 url: https://blog.johnbentley.ca
-status: up
-code: 200
-responseTime: 1224
-lastUpdated: 2025-08-26T17:00:39.623Z
+status: down
+code: 500
+responseTime: 4370
+lastUpdated: 2025-08-26T17:19:59.720Z
 startTime: 2023-10-17T21:31:44.685Z
 generator: Upptime <https://github.com/upptime/upptime>
