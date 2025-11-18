@@ -4,19 +4,19 @@
     "url": "https://www.rounders.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.rounders.ca.ico",
     "slug": "rounders",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 165,
-    "timeDay": 111,
-    "timeWeek": 188,
-    "timeMonth": 175,
+    "timeDay": 167,
+    "timeWeek": 197,
+    "timeMonth": 177,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 37
     }
   },
   {
