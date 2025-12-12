@@ -11,9 +11,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 167,
-    "timeDay": 124,
-    "timeWeek": 149,
-    "timeMonth": 177,
+    "timeDay": 143,
+    "timeWeek": 144,
+    "timeMonth": 175,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-11-18": 140
@@ -32,8 +32,8 @@
     "uptimeYear": "100.00%",
     "time": 279,
     "timeDay": 246,
-    "timeWeek": 276,
-    "timeMonth": 301,
+    "timeWeek": 281,
+    "timeMonth": 300,
     "timeYear": 279,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 394,
-    "timeWeek": 524,
+    "timeDay": 477,
+    "timeWeek": 532,
     "timeMonth": 486,
-    "timeYear": 514,
+    "timeYear": 513,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 285,
-    "timeWeek": 358,
-    "timeMonth": 340,
+    "timeDay": 355,
+    "timeWeek": 365,
+    "timeMonth": 339,
     "timeYear": 338,
     "dailyMinutesDown": {}
   },
@@ -84,10 +84,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 230,
-    "timeWeek": 295,
-    "timeMonth": 278,
+    "time": 289,
+    "timeDay": 325,
+    "timeWeek": 309,
+    "timeMonth": 277,
     "timeYear": 289,
     "dailyMinutesDown": {}
   },
@@ -96,18 +96,20 @@
     "url": "https://like2have.it",
     "icon": "https://icons.duckduckgo.com/ip3/like2have.it.ico",
     "slug": "like2-have-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 349,
-    "timeWeek": 451,
-    "timeMonth": 389,
+    "timeDay": 414,
+    "timeWeek": 455,
+    "timeMonth": 390,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-12": 1
+    }
   },
   {
     "name": "NaturesPicsOnline",
@@ -121,8 +123,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 227,
-    "timeWeek": 325,
+    "timeDay": 324,
+    "timeWeek": 332,
     "timeMonth": 303,
     "timeYear": 304,
     "dailyMinutesDown": {
@@ -135,14 +137,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.johnbentley.ca.ico",
     "slug": "john-bentley-blog",
     "status": "up",
-    "uptime": "95.84%",
+    "uptime": "95.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.16%",
     "time": 375,
-    "timeDay": 302,
-    "timeWeek": 366,
+    "timeDay": 324,
+    "timeWeek": 370,
     "timeMonth": 338,
     "timeYear": 383,
     "dailyMinutesDown": {
@@ -200,17 +202,19 @@
     "url": "https://vancouvernowandthen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vancouvernowandthen.com.ico",
     "slug": "vancouver-now-and-then",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
-    "timeDay": 493,
-    "timeWeek": 671,
+    "timeDay": 647,
+    "timeWeek": 685,
     "timeMonth": 611,
     "timeYear": 620,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-12": 1
+    }
   }
 ]
