@@ -96,19 +96,19 @@
     "url": "https://like2have.it",
     "icon": "https://icons.duckduckgo.com/ip3/like2have.it.ico",
     "slug": "like2-have-it",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 414,
-    "timeWeek": 455,
+    "timeDay": 417,
+    "timeWeek": 454,
     "timeMonth": 390,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2025-12-12": 1
+      "2025-12-12": 12
     }
   },
   {
@@ -202,19 +202,19 @@
     "url": "https://vancouvernowandthen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vancouvernowandthen.com.ico",
     "slug": "vancouver-now-and-then",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 621,
-    "timeDay": 647,
-    "timeWeek": 685,
-    "timeMonth": 611,
+    "timeDay": 691,
+    "timeWeek": 692,
+    "timeMonth": 613,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2025-12-12": 1
+      "2025-12-12": 11
     }
   }
 ]
