@@ -8,7 +8,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.97%",
     "time": 167,
     "timeDay": 137,
@@ -200,19 +200,19 @@
     "url": "https://vancouvernowandthen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vancouvernowandthen.com.ico",
     "slug": "vancouver-now-and-then",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 634,
-    "timeDay": 4025,
-    "timeWeek": 1363,
-    "timeMonth": 803,
+    "time": 635,
+    "timeDay": 3661,
+    "timeWeek": 1355,
+    "timeMonth": 805,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-12-18": 48
+      "2025-12-18": 60
     }
   }
 ]
