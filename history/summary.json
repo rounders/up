@@ -200,10 +200,10 @@
     "url": "https://vancouvernowandthen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vancouvernowandthen.com.ico",
     "slug": "vancouver-now-and-then",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 626,
@@ -212,7 +212,7 @@
     "timeMonth": 685,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2025-12-18": 47
+      "2025-12-18": 48
     }
   }
 ]
