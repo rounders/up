@@ -8,12 +8,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 167,
-    "timeDay": 137,
-    "timeWeek": 155,
-    "timeMonth": 170,
+    "timeDay": 124,
+    "timeWeek": 153,
+    "timeMonth": 169,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-11-18": 140
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 263,
-    "timeWeek": 256,
+    "timeDay": 339,
+    "timeWeek": 263,
     "timeMonth": 296,
     "timeYear": 278,
     "dailyMinutesDown": {}
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 515,
-    "timeDay": 511,
-    "timeWeek": 488,
+    "timeDay": 665,
+    "timeWeek": 511,
     "timeMonth": 483,
-    "timeYear": 513,
+    "timeYear": 512,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 340,
-    "timeWeek": 331,
+    "timeDay": 432,
+    "timeWeek": 345,
     "timeMonth": 337,
     "timeYear": 338,
     "dailyMinutesDown": {}
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 307,
-    "timeWeek": 280,
-    "timeMonth": 274,
+    "timeDay": 371,
+    "timeWeek": 288,
+    "timeMonth": 273,
     "timeYear": 289,
     "dailyMinutesDown": {}
   },
@@ -103,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 376,
-    "timeWeek": 373,
+    "timeDay": 430,
+    "timeWeek": 379,
     "timeMonth": 384,
     "timeYear": 378,
     "dailyMinutesDown": {}
@@ -121,8 +121,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 315,
-    "timeWeek": 295,
+    "timeDay": 401,
+    "timeWeek": 309,
     "timeMonth": 299,
     "timeYear": 304,
     "dailyMinutesDown": {
@@ -141,8 +141,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.16%",
     "time": 375,
-    "timeDay": 368,
-    "timeWeek": 338,
+    "timeDay": 449,
+    "timeWeek": 350,
     "timeMonth": 338,
     "timeYear": 383,
     "dailyMinutesDown": {
@@ -202,17 +202,17 @@
     "slug": "vancouver-now-and-then",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.84%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 635,
-    "timeDay": 3661,
-    "timeWeek": 1355,
+    "timeDay": 3762,
+    "timeWeek": 1381,
     "timeMonth": 805,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-12-18": 60
+      "2025-12-18": 47
     }
   }
 ]
