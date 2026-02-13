@@ -97,10 +97,10 @@
     "url": "https://like2have.it",
     "icon": "https://icons.duckduckgo.com/ip3/like2have.it.ico",
     "slug": "like2-have-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
@@ -108,7 +108,9 @@
     "timeWeek": 381,
     "timeMonth": 375,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 1
+    }
   },
   {
     "name": "NaturesPicsOnline",
@@ -134,11 +136,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.johnbentley.ca.ico",
     "slug": "john-bentley-blog",
     "status": "up",
-    "uptime": "90.30%",
+    "uptime": "90.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.57%",
+    "uptimeYear": "77.53%",
     "time": 379,
     "timeDay": 332,
     "timeWeek": 310,
@@ -165,7 +167,7 @@
       "2026-01-14": 2880,
       "2026-01-13": 2880,
       "2026-01-12": 118,
-      "2026-02-13": 4,
+      "2026-02-13": 210,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -229,10 +231,10 @@
     "url": "https://vancouvernowandthen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vancouvernowandthen.com.ico",
     "slug": "vancouver-now-and-then",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 629,
@@ -241,6 +243,7 @@
     "timeMonth": 576,
     "timeYear": 632,
     "dailyMinutesDown": {
+      "2026-02-13": 1,
       "2025-12-18": 47
     }
   }
