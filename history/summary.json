@@ -167,7 +167,7 @@
       "2026-01-14": 2880,
       "2026-01-13": 2880,
       "2026-01-12": 118,
-      "2026-03-16": 1244,
+      "2026-03-16": 1260,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -262,10 +262,10 @@
     "url": "https://vancouvernowandthen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vancouvernowandthen.com.ico",
     "slug": "vancouver-now-and-then",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 626,
@@ -274,7 +274,7 @@
     "timeMonth": 549,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2026-03-16": 19,
+      "2026-03-16": 20,
       "2026-02-13": 50,
       "2025-12-18": 47
     }
